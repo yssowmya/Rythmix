@@ -1,0 +1,2 @@
+# RhythMix
+Music streaming app
